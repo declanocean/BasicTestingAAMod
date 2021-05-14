@@ -1,0 +1,3 @@
+displayName = Basic Testing AA Mod
+author = Declan
+version = 0.1
