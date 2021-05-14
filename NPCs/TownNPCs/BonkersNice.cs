@@ -78,7 +78,7 @@ namespace BasicTestingAAMod.NPCs.TownNPCs
 			switch (Main.rand.Next(11))
 			{
 				case 0:
-					return "Hello friend";
+					return "Hello friend!";
 				case 1:
 					return "The thing there is a BIG MONSTER! not really...";
 				case 2:
